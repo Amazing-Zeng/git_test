@@ -6,8 +6,6 @@ int main()
     printf("This is a test program.\n");
     printf("This program is written in C language.\n");
 
-    printf("This program\n");
-
-    printf("This program is written in C language.\n");
+      printf("This program is written in C language.\n");
     return 0;
 }
